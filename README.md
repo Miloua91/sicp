@@ -27,64 +27,64 @@ This objective comprises reading from SICP, pre-recorded video lectures, homewor
 
 Tasks roughly copied from [this repo](https://github.com/theurere/berkeley_cs61a_spring-2011_archive).
 
-- [] 1. Functional programming - Reading (SICP Section 1.1)
-- [] 1. Functional programming - Video lecture 1
-- [] 1. Functional programming - Video lecture 2
-- [] 1. Functional programming - Homework
-- [] 2. Higher-order procedures - Reading (SICP Section 1.3)
-- [] 2. Higher-order procedures - Video lecture 3
-- [] 2. Higher-order procedures - Video lecture 4
-- [] 2. Higher-order procedures - Homework
-- [] 3. Recursion and iteration - Reading (SICP Section 1.2 - 1.2.4)
-- [] 3. Recursion and iteration - Video lecture 7
-- [] 3. Recursion and iteration - Video lecture 8
-- [] 3. Recursion and iteration - Homework
-- [] Project 1 - Twenty-One
-- [] 4. Data abstraction - Reading (SICP Sections 2.1 and 2.2.1)
-- [] 4. Data abstraction - Video lecture 9
-- [] 4. Data abstraction - Video lecture 10
-- [] 4. Data abstraction - Video lecture 11
-- [] 4. Data abstraction - Homework
-- [] Exam - Midterm 1
-- [] 5. Hierarchical data/Scheme interpreter - Reading (SICP 2.2.2, 2.2.3, 2.3.1, 2.3.3)
-- [] 5. Hierarchical data/Scheme interpreter - Video lecture 12
-- [] 5. Hierarchical data/Scheme interpreter - Video lecture 13
-- [] 5. Hierarchical data/Scheme interpreter - Video lecture 14
-- [] 5. Hierarchical data/Scheme interpreter - Homework
-- [] Project 2 - A Picture Language (SICP section 2.2.4)
-- [] 6. Generic operators - Reading (SICP 2.4, 2.5 - 2.5.2)
-- [] 6. Generic operators - Video lecture 16
-- [] 6. Generic operators - Video lecture 17
-- [] 6. Generic operators - Homework
-- [] 7. Object-oriented programming - Reading (OOP above-the-line view in course reader)
-- [] 7. Object-oriented programming - Lecture 18
-- [] 7. Object-oriented programming - Lecture 19
-- [] 7. Object-oriented programming - Lecture 20
-- [] 7. Object-oriented programming - Homework
-- [] Exam - Midterm 2
-- [] 8. Assignment, state, environments - Reading (SICP 3.1, 3.2)
-- [] 8. Assignment and state - Lecture 21
-- [] 8. Environments - Lecture 22
-- [] 8. Environments - Lecture 23
-- [] 8. Assignment, state, environments - Homework
-- [] Project 3a
-- [] 9. Mutable data, vectors - Reading (SICP 3.3.1-3)
-- [] 9. Mutable data - Lecture 24
-- [] 9. Mutable data - Lecture 25
-- [] 9. Vectors - Lecture 26
-- [] 9. Mutable data, vectors - Homework
-- [] Project 3b
-- [] 10. Client/server, concurrency - Reading (SICP 3.4)
-- [] 10. Client/server - Lecture 30
-- [] 10. Concurrency - Lecture 31
-- [] 10. Concurrency - Lecture 32
-- [] 10. Client/server, concurrency - Homework
-- [] 11. Streams, Therac-25 - Reading (SICP 3.5.1-3, 3.5.5, Therac-25 paper)
-- [] 11. Streams - Lecture 33
-- [] 11. Streams - Lecture 34
-- [] 11. Therac-25 - Lecture 35
-- [] 11. Streams, Therac-25 - Homework
-- [] Exam - Midterm 3
+- [ ] 1. Functional programming - Reading (SICP Section 1.1)
+- [ ] 1. Functional programming - Video lecture 1
+- [ ] 1. Functional programming - Video lecture 2
+- [ ] 1. Functional programming - Homework
+- [ ] 2. Higher-order procedures - Reading (SICP Section 1.3)
+- [ ] 2. Higher-order procedures - Video lecture 3
+- [ ] 2. Higher-order procedures - Video lecture 4
+- [ ] 2. Higher-order procedures - Homework
+- [ ] 3. Recursion and iteration - Reading (SICP Section 1.2 - 1.2.4)
+- [ ] 3. Recursion and iteration - Video lecture 7
+- [ ] 3. Recursion and iteration - Video lecture 8
+- [ ] 3. Recursion and iteration - Homework
+- [ ] Project 1 - Twenty-One
+- [ ] 4. Data abstraction - Reading (SICP Sections 2.1 and 2.2.1)
+- [ ] 4. Data abstraction - Video lecture 9
+- [ ] 4. Data abstraction - Video lecture 10
+- [ ] 4. Data abstraction - Video lecture 11
+- [ ] 4. Data abstraction - Homework
+- [ ] Exam - Midterm 1
+- [ ] 5. Hierarchical data/Scheme interpreter - Reading (SICP 2.2.2, 2.2.3, 2.3.1, 2.3.3)
+- [ ] 5. Hierarchical data/Scheme interpreter - Video lecture 12
+- [ ] 5. Hierarchical data/Scheme interpreter - Video lecture 13
+- [ ] 5. Hierarchical data/Scheme interpreter - Video lecture 14
+- [ ] 5. Hierarchical data/Scheme interpreter - Homework
+- [ ] Project 2 - A Picture Language (SICP section 2.2.4)
+- [ ] 6. Generic operators - Reading (SICP 2.4, 2.5 - 2.5.2)
+- [ ] 6. Generic operators - Video lecture 16
+- [ ] 6. Generic operators - Video lecture 17
+- [ ] 6. Generic operators - Homework
+- [ ] 7. Object-oriented programming - Reading (OOP above-the-line view in course reader)
+- [ ] 7. Object-oriented programming - Lecture 18
+- [ ] 7. Object-oriented programming - Lecture 19
+- [ ] 7. Object-oriented programming - Lecture 20
+- [ ] 7. Object-oriented programming - Homework
+- [ ] Exam - Midterm 2
+- [ ] 8. Assignment, state, environments - Reading (SICP 3.1, 3.2)
+- [ ] 8. Assignment and state - Lecture 21
+- [ ] 8. Environments - Lecture 22
+- [ ] 8. Environments - Lecture 23
+- [ ] 8. Assignment, state, environments - Homework
+- [ ] Project 3a
+- [ ] 9. Mutable data, vectors - Reading (SICP 3.3.1-3)
+- [ ] 9. Mutable data - Lecture 24
+- [ ] 9. Mutable data - Lecture 25
+- [ ] 9. Vectors - Lecture 26
+- [ ] 9. Mutable data, vectors - Homework
+- [ ] Project 3b
+- [ ] 10. Client/server, concurrency - Reading (SICP 3.4)
+- [ ] 10. Client/server - Lecture 30
+- [ ] 10. Concurrency - Lecture 31
+- [ ] 10. Concurrency - Lecture 32
+- [ ] 10. Client/server, concurrency - Homework
+- [ ] 11. Streams, Therac-25 - Reading (SICP 3.5.1-3, 3.5.5, Therac-25 paper)
+- [ ] 11. Streams - Lecture 33
+- [ ] 11. Streams - Lecture 34
+- [ ] 11. Therac-25 - Lecture 35
+- [ ] 11. Streams, Therac-25 - Homework
+- [ ] Exam - Midterm 3
 - [ ] 12. Metacircular evaluation, mapreduce - Reading (SICP 4.1.1–6)
 - [ ] 12. Metacircular evaluation - Lecture 36
 - [ ] 12. Mapreduce - Lecture 37
