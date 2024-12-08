@@ -28,7 +28,7 @@ This objective comprises reading from SICP, pre-recorded video lectures, homewor
 Tasks roughly copied from [this repo](https://github.com/theurere/berkeley_cs61a_spring-2011_archive).
 
 - [x] 1. Functional programming - Reading (SICP Section 1.1)
-- [ ] 1. Functional programming - Video lecture 1
+- [x] 1. Functional programming - Video lecture 1
 - [ ] 1. Functional programming - Video lecture 2
 - [ ] 1. Functional programming - Homework
 - [ ] 2. Higher-order procedures - Reading (SICP Section 1.3)
